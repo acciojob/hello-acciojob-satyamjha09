@@ -1,2 +1,12 @@
 
-/* Your CSS Code here. */
+main {
+	width: 150px;
+	height: 150px;
+	background-color: #ffffff;
+}
+
+main p {
+	text-color: #ffffff;
+	margin-left: 32px;
+	padding: 10px;
+}
